@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <sub>커뮤니티 번역이다. 기준이 되는 최신 버전은 <a href="README.md">영어 README</a>다.</sub>
+  <sub>커뮤니티 번역이다. 기준이 되는 최신 버전은 <a href="README.md">영어 README</a>다. &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.es.md">Español</a></sub>
 </p>
 
 ---

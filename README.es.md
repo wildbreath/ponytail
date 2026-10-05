@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <sub>Traducción de la comunidad. La versión de referencia y más reciente es el <a href="README.md">README en inglés</a>.</sub>
+  <sub>Traducción de la comunidad. La versión de referencia y más reciente es el <a href="README.md">README en inglés</a>. &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.ko.md">한국어</a></sub>
 </p>
 
 ---
